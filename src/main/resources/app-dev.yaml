@@ -1,0 +1,10 @@
+db:
+  host: "localhost"
+  name: "muletrainingdb"
+
+
+rabbit:
+  host: ""
+  user: ""
+
+

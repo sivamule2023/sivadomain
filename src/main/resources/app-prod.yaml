@@ -1,0 +1,4 @@
+dbhost: "localhostprod"
+dbusername: "prodroot"
+dbpassword: "rootprod"
+dbname: "muletrainingdbprod"
